@@ -168,3 +168,35 @@ def build_readme(stats: dict, configs_dir: Path) -> str:
 ## 🤖 Автообновление
 
 Конфиги обновляются автоматически через **GitHub Actions** каждые **6 часов**.
+
+---
+
+## ⚠️ Disclaimer
+
+Данный репозиторий предназначен исключительно для **образовательных целей** и **тестирования сетевой доступности**. Все конфиги собраны из публично доступных источников. Используйте в соответствии с законодательством вашей страны.
+
+---
+
+<div align="center">
+
+**⭐ Поставь звезду, если полезно!**
+
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/Gh0st_WhiteList?style=social)
+
+</div>
+"""
+    return readme
+
+
+def main() -> None:
+    root = Path(__file__).resolve().parent.parent
+    configs_dir = root / "configs"
+    stats = load_stats(configs_dir)
+    readme = build_readme(stats, configs_dir)
+    readme_path = root / "README.md"
+    readme_path.write_text(readme, encoding="utf-8")
+    print(f"✅ README.md обновлён ({len(readme)} символов)")
+
+
+if __name__ == "__main__":
+    main()
