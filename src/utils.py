@@ -50,27 +50,32 @@ def load_config(path: str = "config.yaml") -> dict:
 # ── Base64 ────────────────────────────────────────────────────────────────────
 
 def safe_b64decode(data: str) -> str:
-    """Декодирует base64 с padding-фиксом; возвращает '' при ошибке."""
+    """Декодирует base64 с padding-фиксом и защитой от не-base64 данных."""
+    if not data or not isinstance(data, str):
+        return ""
+    
     data = data.strip()
+    if not data:
+        return ""
+
+    # Если строка содержит пробелы, переносы или русские символы — скорее всего не base64
+    if re.search(r'[\s\n\r\u0400-\u04FF]', data) or len(data) < 4:
+        return ""
+
     # Добавляем padding
     padding = 4 - len(data) % 4
     if padding != 4:
         data += "=" * padding
+
     try:
-        return base64.b64decode(data).decode("utf-8", errors="ignore")
-    except (binascii.Error, UnicodeDecodeError):
+        # Проверяем, что строка содержит только валидные base64 символы
+        if not re.match(r'^[A-Za-z0-9+/=]+$', data):
+            return ""
+            
+        decoded_bytes = base64.b64decode(data, validate=True)
+        return decoded_bytes.decode("utf-8", errors="ignore")
+    except (binascii.Error, UnicodeDecodeError, Exception):
         return ""
-
-
-def decode_subscription(raw: str) -> list[str]:
-    """Декодирует base64-подписку → список строк."""
-    decoded = safe_b64decode(raw)
-    if not decoded:
-        # попробуем как plain text
-        decoded = raw
-    lines = [l.strip() for l in decoded.splitlines() if l.strip()]
-    return lines
-
 
 # ── Парсинг URI ───────────────────────────────────────────────────────────────
 
