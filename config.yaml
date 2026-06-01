@@ -1,1 +1,113 @@
+# ============================================================
+#  Gh0st_WhiteList — главный конфигурационный файл
+# ============================================================
 
+# --- Сбор конфигов ---
+collection:
+  # Telegram-каналы (только публичные, без авторизации — через t.me/s/)
+  telegram_channels:
+    - vpngate_official
+    - freevpnposts
+    - proxy_configs
+    - v2ray_configs
+    - vless_configs
+    - shadowproxy
+    - outline_vpn
+    - configs_v2ray
+    - vpn_xray
+    - free_v2ray_configs
+    - iranvpnet
+    - mahdibland
+    - vmessorg
+    - proxystore11
+    - DirectVPN
+
+  # GitHub-репозитории с конфигами (raw списки)
+  github_sources:
+    - url: "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt"
+      format: "base64_list"
+    - url: "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vless.txt"
+      format: "base64_list"
+    - url: "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt"
+      format: "base64_list"
+    - url: "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/ss.txt"
+      format: "base64_list"
+    - url: "https://raw.githubusercontent.com/mahdibland/ShadowMatcher/master/Eternity"
+      format: "base64_sub"
+    - url: "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt"
+      format: "plain_list"
+    - url: "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2"
+      format: "base64_sub"
+    - url: "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
+      format: "base64_sub"
+    - url: "https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt"
+      format: "plain_list"
+    - url: "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray"
+      format: "base64_sub"
+
+  # Прямые подписки
+  subscriptions:
+    - url: "https://raw.githubusercontent.com/freefq/free/master/v2"
+      format: "base64_sub"
+    - url: "https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num"
+      format: "base64_sub"
+
+  # Таймаут запроса (сек)
+  request_timeout: 30
+  # Макс. параллельных запросов при сборе
+  max_concurrent_requests: 10
+  # User-Agent для HTTP-запросов
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+# --- Проверка конфигов ---
+checker:
+  # Цели для HTTP-пинга
+  ping_targets:
+    - "http://www.gstatic.com/generate_204"
+    - "http://cp.cloudflare.com"
+    - "http://connectivitycheck.gstatic.com/generate_204"
+
+  # Количество попыток для каждого конфига
+  attempts: 3
+  # Таймаут одной проверки (сек)
+  timeout: 10
+  # Макс. параллельных проверок
+  concurrency: 200
+  # Максимальная допустимая задержка (мс) для "живых" конфигов
+  max_latency_ms: 5000
+  # Минимальный success_rate для alive
+  min_success_rate: 0.33
+
+# --- Скоринг ---
+scoring:
+  # Вес задержки (чем ниже latency, тем лучше)
+  latency_weight: 0.5
+  # Вес стабильности (success_rate)
+  stability_weight: 0.35
+  # Бонус за страну (для РФ-ориентированных серверов)
+  country_bonus_weight: 0.15
+  # Страны с бонусом (рядом с РФ или не заблокированы)
+  bonus_countries: ["NL", "DE", "FI", "EE", "LV", "LT", "PL", "TR", "AE", "NL", "SE", "NO"]
+  # Топ конфигов
+  top_fast_count: 100
+  top_reliable_count: 100
+  best_ru_count: 100
+
+# --- GeoIP ---
+geoip:
+  # Сервис для определения страны по IP
+  api_url: "http://ip-api.com/batch"
+  batch_size: 100
+  cache_ttl_hours: 72
+
+# --- Пути ---
+paths:
+  configs_dir: "configs"
+  cache_dir: "cache"
+  logs_dir: "logs"
+
+# --- Логирование ---
+logging:
+  level: "INFO"
+  format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"
+  file: "logs/run.log"
