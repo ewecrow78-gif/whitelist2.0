@@ -1,1 +1,1 @@
-
+"""Checker package."""
