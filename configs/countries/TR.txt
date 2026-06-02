@@ -1,1 +1,1 @@
-trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-0476
