@@ -1,6 +1,5 @@
-vless://a8f7bfbc-4bb8-4f10-ac8f-93e0ce4cc46a@147.90.14.161:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TxeJaR7AeMcpnSi8A45lOSc8xMSFlYu6x7mHjeQMQWU&security=reality&sid=4adcbc3df6cdd138&sni=www.cloudflare.com&type=tcp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://bd98f5d9-30b7-4dee-a9b5-596a99a4d516@146.59.13.37:80?path=%2Fvless&security=none&encryption=none&host=146.59.13.37&type=ws#%40v2rayng_org
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3564
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-64.176.65.85-0191
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3573
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-2544
 vless://83188542-d5ad-421d-b476-d6e97fe99101@146.59.13.37:80?path=%2Fvless&security=none&encryption=none&host=146.59.13.37&type=ws#%40v2rayng_org
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-2535
+vless://bd98f5d9-30b7-4dee-a9b5-596a99a4d516@146.59.13.37:80?path=%2Fvless&security=none&encryption=none&host=146.59.13.37&type=ws#%40v2rayng_org
