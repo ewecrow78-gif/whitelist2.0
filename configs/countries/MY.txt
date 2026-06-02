@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVPnvo7lm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6InYzNi5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MzYiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InYzNi5oZGFjZC5jb20iLCJ0bHMiOiIifQ==
+trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:40015?allowInsecure=1&security=tls&sni=1.lossyesterday.xyz#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
