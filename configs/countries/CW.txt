@@ -1,3 +1,3 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?path=Telegram%40WangCai2%2F&security=tls&encryption=none&insecure=1&host=sni.my111000.tech&type=ws&allowInsecure=1&sni=sni.my111000.tech#Pro%2039%20%40Outline_Vpn
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b1%f0%9f%87%b9+LT+%e7%ab%8b%e9%99%b6%e5%ae%9b+54
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.38:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b1%f0%9f%87%b9+LT+%e7%ab%8b%e9%99%b6%e5%ae%9b+28
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%f0%9f%87%b1%f0%9f%87%b9+LT+%e7%ab%8b%e9%99%b6%e5%ae%9b+54

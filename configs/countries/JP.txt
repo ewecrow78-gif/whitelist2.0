@@ -1,9 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
-trojan://E_hUHrn0+6VeZO=v9=fLgoPDXZWGfcrejg@172.238.19.11:443?security=tls&sni=172.238.19.11#%F0%9F%87%AF%F0%9F%87%B5JP-172.238.19.11-0714
-trojan://BxceQaOe@18.183.163.141:4099?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.163.141-0405
-trojan://BxceQaOe@18.183.163.141:50712?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.163.141-0406
-trojan://BxceQaOe@43.207.209.201:30022?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.209.201-1562
-vless://10550754-cf62-3d3b-ba6a-50be27a275d7@150.251.158.76:443?allowInsecure=0&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=s646.okgg.top#%E6%AF%94%E5%88%A9%E6%97%B6+V2CROSS.COM
-trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.12.80-4591
-trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.25.200-4609
-trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-3920
+trojan://d84665c37878196ecf983cf6910e3b44@43.207.82.19:31351?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://BxceQaOe@43.207.209.201:30022?security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-43.207.209.201-0716
+trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.25.200-4580
+trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.12.80-4562
+vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HsvCfh75fTVlf6ams5p2l6KW/5LqaLT7wn4ev8J+HtV9KUF/ml6XmnKwiLAogICJhZGQiOiAidjYuaGRhY2QuY29tIiwKICAicG9ydCI6IDMwODA2LAogICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLAogICJhaWQiOiAyLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogbnVsbCwKICAiaG9zdCI6ICJ2Ni5oZGFjZC5jb20iLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiBmYWxzZSwKICAic25pIjogIiIKfQ==
+trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-3891
