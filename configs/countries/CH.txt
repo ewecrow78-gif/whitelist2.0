@@ -1,1 +1,2 @@
 trojan://8r%3C%5B9%27l6hAO%238ZQi@45.59.117.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳
+vless://91427003-38cb-473e-95f2-a4b500c91f7b@poland.milas.click:443?encryption=none&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=poland.milas.click&type=grpc#%E6%8C%AA%E5%A8%81+V2CROSS.COM
