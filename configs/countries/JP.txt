@@ -1,6 +1,6 @@
 vless://5f2c8a1b-911f-422f-8a12-0d98b0d55fcb@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=1&host=oijji.global.ssl.fastly.neT&type=ws&allowInsecure=1&sni=speedtest.net#@vmessorg
 trojan://E_hUHrn0+6VeZO=v9=fLgoPDXZWGfcrejg@172.238.19.11:443?security=tls&sni=172.238.19.11#%F0%9F%87%AF%F0%9F%87%B5JP-172.238.19.11-0133
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.245.62.4:8443?security=tls&sni=dxy1h.twiladaphne.ndjp.net#%F0%9F%87%AF%F0%9F%87%B5JP-47.245.62.4-1562
-trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.25.200-4595
 trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.12.80-4580
+trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-3.113.25.200-4595
 trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-3907
