@@ -1,18 +1,18 @@
 {
-  "total": 1411,
-  "alive": 533,
+  "total": 1438,
+  "alive": 545,
   "top_countries": [
     [
       "CA",
-      181
+      176
     ],
     [
       "US",
-      72
+      76
     ],
     [
       "DE",
-      71
+      73
     ],
     [
       "FI",
@@ -20,51 +20,51 @@
     ],
     [
       "FR",
-      23
+      22
     ],
     [
       "NL",
-      20
+      21
     ],
     [
       "HK",
-      20
-    ],
-    [
-      "TW",
-      17
+      21
     ],
     [
       "GB",
-      14
+      19
+    ],
+    [
+      "TW",
+      18
     ],
     [
       "KR",
-      12
+      15
     ]
   ],
   "top_protocols": [
     [
       "vmess",
-      198
+      200
     ],
     [
       "trojan",
-      181
+      189
     ],
     [
       "vless",
-      117
+      112
     ],
     [
       "ss",
-      36
+      43
     ],
     [
       "hysteria2",
       1
     ]
   ],
-  "avg_latency_ms": 113.5,
-  "min_latency_ms": 8.9
+  "avg_latency_ms": 127.6,
+  "min_latency_ms": 1.5
 }
