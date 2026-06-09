@@ -1,2 +1,1 @@
-trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-2335
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0117
+vless://bbd67e54-1b4b-488b-a5df-708ef896ecaa@14.102.228.76:443?path=/api/v2/sync/data-stream&security=tls&alpn=http/1.1&encryption=none&type=ws&sni=wof2.cerosmakom.com#%E5%8D%B0%E5%BA%A6+V2CROSS.COM

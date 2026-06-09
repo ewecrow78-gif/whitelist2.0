@@ -1,1 +1,1 @@
-vless://edc33a23-0574-480a-9b72-ab5b97497200@93.115.10.160:443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=8755d3406d69&pbk=UNmXDP41M-gwlnBgRgtt6Pw3LwI1-wFmbIDa-CNRejA&encryption=none#%E5%9C%9F%E8%80%B3%E5%85%B6+V2CROSS.COM
+vless://bbd67e54-1b4b-488b-a5df-708ef896ecaa@rt1.mwnst.com:443?security=reality&encryption=none&pbk=PHo_r72u54ZNRDJtOrlif4P63jqbnVs6WzNExmfuiyM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=f4fb74a35b98e3#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
