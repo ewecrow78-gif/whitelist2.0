@@ -1,2 +1,1 @@
-vless://c72a3220-3e77-46e9-b5c7-0c3b6f29d130@185.143.233.235:2052?path=%2F&security=none&encryption=none&host=arvin.irzeus.ir&type=ws#%vmessorg
-ss://YWVzLTI1Ni1nY206TTJGbE5XVTJabUUyTnpWbU5UVmlOVEUyWW1VME5qVTFNelk1WlRJNA@188.121.119.246:10086#@vmessorg
+ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0=@103.130.147.40:1122#%E5%9C%9F%E8%80%B3%E5%85%B6+V2CROSS.COM

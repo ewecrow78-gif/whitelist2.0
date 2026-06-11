@@ -1,1 +1,1 @@
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://d4d234ea-80ea-4820-ac5e-05d653960579@187.124.98.130:3443?security=reality&encryption=none&pbk=AdSCtMttNJ-KQuURl1ynBdy8DtAbCUFG6G2qB-GbTXU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=bc755b173467c322#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
