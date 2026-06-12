@@ -1,1 +1,1 @@
-vless://bbd67e54-1b4b-488b-a5df-708ef896ecaa@14.102.228.76:443?path=/api/v2/sync/data-stream&security=tls&alpn=http/1.1&encryption=none&type=ws&sni=wof2.cerosmakom.com#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
+vless://89304de3-af59-4313-b18d-c93dadf54537@103.200.28.142:7443?security=reality&encryption=none&pbk=_GHDETa6pflP7WjkBT-2jMYnb0xRs-e8LrCu93Z_CHo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM

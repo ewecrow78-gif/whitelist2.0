@@ -1,1 +1,1 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.59.117.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram🇨🇳
+vless://83989465-4ec6-4dbe-97c6-2779df88d9e0@83.228.235.106:443?encryption=none&fp=chrome&pbk=MK3NN842R-fVl71Rdcn9oLAQNJrd-igvxPaKS_c6928&security=reality&sid=accd8c&sni=varzesh3.com&type=tcp#%E7%91%9E%E5%A3%AB+V2CROSS.COM
