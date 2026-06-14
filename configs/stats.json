@@ -1,10 +1,10 @@
 {
-  "total": 906,
-  "alive": 386,
+  "total": 903,
+  "alive": 381,
   "top_countries": [
     [
       "CA",
-      140
+      138
     ],
     [
       "DE",
@@ -36,35 +36,35 @@
     ],
     [
       "GB",
-      9
+      8
     ],
     [
-      "ES",
+      "SC",
       5
     ]
   ],
   "top_protocols": [
     [
       "vmess",
-      198
+      200
     ],
     [
       "vless",
-      112
+      109
     ],
     [
       "trojan",
-      45
+      42
     ],
     [
       "ss",
-      30
+      29
     ],
     [
       "hysteria2",
       1
     ]
   ],
-  "avg_latency_ms": 115.6,
-  "min_latency_ms": 5.3
+  "avg_latency_ms": 100.5,
+  "min_latency_ms": 0.8
 }
