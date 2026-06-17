@@ -1,1 +1,3 @@
-trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?type=tcp&security=tls&headerType=none&sni=103.125.219.70&fp=chrome&insecure=1&allowInsecure=1#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dkA1NC4yNTAuMTY1LjE2MDoyMzc3Pw==#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@35.72.81.216:443?allowInsecure=0&alpn=http%2F1.1&path=%2F%3Fed%3D2048&security=tls&sni=jy.hhllfly.kdns.fr&type=ws#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?allowInsecure=1&sni=103.125.219.70#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%20V2CROSS.COM
