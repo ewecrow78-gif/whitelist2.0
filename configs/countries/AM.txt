@@ -1,0 +1,1 @@
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&type=tcp&packetEncoding=xudp&encryption=none#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
