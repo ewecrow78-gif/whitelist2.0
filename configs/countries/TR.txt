@@ -1,6 +1,2 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.80:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%E7%BE%8E%E5%9B%BD+%E5%8D%97%E5%8D%A1%E7%BD%97%E6%9D%A5%E7%BA%B3%E5%B7%9E
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.247:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.72:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+%E5%8D%97%E5%8D%A1%E7%BD%97%E6%9D%A5%E7%BA%B3%E5%B7%9E
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.233:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
 vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=2418ed47b875e923#%5B%F0%9F%87%B9%F0%9F%87%B7%5Dt.me@vmessorg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%5B%F0%9F%87%B9%F0%9F%87%B7%5Dt.me%vmessorg
