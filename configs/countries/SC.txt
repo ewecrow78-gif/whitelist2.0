@@ -1,2 +1,2 @@
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.0:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Free%20108%20%40Outline_Vpn
 vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?path=%2Fid-pusat&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#Free%24%2035%20%40Outline_Vpn
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.0:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Free%20108%20%40Outline_Vpn

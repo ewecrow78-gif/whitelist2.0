@@ -4,11 +4,11 @@
 
 **Элитный агрегатор и чекер VPN-конфигураций**
 
-[![Configs](https://img.shields.io/badge/Всего_конфигов-945-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](configs/all.txt)
-[![Alive](https://img.shields.io/badge/Живых-410-brightgreen?style=for-the-badge)](configs/alive.txt)
-[![Success Rate](https://img.shields.io/badge/Success_Rate-43.4%25-success?style=for-the-badge)](configs/alive.json)
-[![Latency](https://img.shields.io/badge/Avg_Latency-96.4ms-orange?style=for-the-badge)](configs/top_fast.txt)
-[![Updated](https://img.shields.io/badge/Обновлено-2026-06-19_19-54_UTC-lightgrey?style=for-the-badge)](https://github.com/YOUR_USERNAME/Gh0st_WhiteList/actions)
+[![Configs](https://img.shields.io/badge/Всего_конфигов-957-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](configs/all.txt)
+[![Alive](https://img.shields.io/badge/Живых-418-brightgreen?style=for-the-badge)](configs/alive.txt)
+[![Success Rate](https://img.shields.io/badge/Success_Rate-43.7%25-success?style=for-the-badge)](configs/alive.json)
+[![Latency](https://img.shields.io/badge/Avg_Latency-138.8ms-orange?style=for-the-badge)](configs/top_fast.txt)
+[![Updated](https://img.shields.io/badge/Обновлено-2026-06-20_04-03_UTC-lightgrey?style=for-the-badge)](https://github.com/YOUR_USERNAME/Gh0st_WhiteList/actions)
 
 > 🇷🇺 Оптимизировано для использования в России
 
@@ -22,11 +22,11 @@
 
 | Метрика | Значение |
 |---------|----------|
-| 📦 Всего собрано | **945** |
-| ✅ Рабочих | **410** (43.4%) |
-| ⚡ Лучшая задержка | **5.3 мс** |
-| 📈 Средняя задержка | **96.4 мс** |
-| 🕐 Обновлено | **2026-06-19 19:54 UTC** |
+| 📦 Всего собрано | **957** |
+| ✅ Рабочих | **418** (43.7%) |
+| ⚡ Лучшая задержка | **1.4 мс** |
+| 📈 Средняя задержка | **138.8 мс** |
+| 🕐 Обновлено | **2026-06-20 04:03 UTC** |
 
 </div>
 
@@ -36,16 +36,16 @@
 
 | # | Флаг | Страна | Конфигов |
 |---|------|--------|----------|
-| 1 | 🇨🇦 | `CA` | **131** |
-| 2 | 🇩🇪 | `DE` | **57** |
-| 3 | 🇳🇱 | `NL` | **45** |
-| 4 | 🇺🇸 | `US` | **40** |
-| 5 | 🇫🇷 | `FR` | **27** |
-| 6 | 🇫🇮 | `FI` | **25** |
-| 7 | 🇭🇰 | `HK` | **12** |
-| 8 | 🇬🇧 | `GB` | **12** |
-| 9 | 🇸🇬 | `SG` | **10** |
-| 10 | 🏴 | `IT` | **6** |
+| 1 | 🇨🇦 | `CA` | **132** |
+| 2 | 🇩🇪 | `DE` | **59** |
+| 3 | 🇳🇱 | `NL` | **40** |
+| 4 | 🇺🇸 | `US` | **38** |
+| 5 | 🇫🇮 | `FI` | **24** |
+| 6 | 🇫🇷 | `FR` | **23** |
+| 7 | 🇬🇧 | `GB` | **12** |
+| 8 | 🇭🇰 | `HK` | **12** |
+| 9 | 🇰🇷 | `KR` | **10** |
+| 10 | 🇯🇵 | `JP` | **8** |
 
 
 ---
@@ -54,10 +54,10 @@
 
 | # | Протокол | Конфигов | Доля |
 |---|----------|----------|------|
-| 1 | 🔷 `vmess` | **201** | 49.0% |
-| 2 | ⚡ `vless` | **139** | 33.9% |
-| 3 | 🐴 `trojan` | **43** | 10.5% |
-| 4 | 🔵 `ss` | **27** | 6.6% |
+| 1 | 🔷 `vmess` | **201** | 48.1% |
+| 2 | ⚡ `vless` | **138** | 33.0% |
+| 3 | 🐴 `trojan` | **49** | 11.7% |
+| 4 | 🔵 `ss` | **30** | 7.2% |
 
 
 ---
@@ -73,8 +73,8 @@
 | 🚀 **Top Fast** | 100 | Самые быстрые | [`top_fast.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/top_fast.txt) |
 | 🛡️ **Top Reliable** | 100 | Самые стабильные | [`top_reliable.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/top_reliable.txt) |
 | 🇷🇺 **Best RU** | 100 | Лучшие для России | [`best_ru.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/best_ru.txt) |
-| ✅ **All Alive** | 410 | Все рабочие | [`alive.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/alive.txt) |
-| 📦 **All** | 945 | Все собранные | [`all.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/all.txt) |
+| ✅ **All Alive** | 418 | Все рабочие | [`alive.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/alive.txt) |
+| 📦 **All** | 957 | Все собранные | [`all.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/all.txt) |
 
 </div>
 
