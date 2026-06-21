@@ -1,34 +1,34 @@
 {
   "total": 957,
-  "alive": 421,
+  "alive": 418,
   "top_countries": [
     [
       "CA",
-      136
+      134
     ],
     [
       "DE",
-      64
+      63
     ],
     [
       "NL",
-      40
+      44
     ],
     [
       "US",
-      31
+      38
     ],
     [
       "FR",
-      27
+      28
     ],
     [
       "FI",
-      24
+      25
     ],
     [
       "GB",
-      12
+      13
     ],
     [
       "HK",
@@ -46,21 +46,21 @@
   "top_protocols": [
     [
       "vmess",
-      203
+      200
     ],
     [
       "vless",
-      138
+      134
     ],
     [
       "trojan",
-      51
+      55
     ],
     [
       "ss",
       29
     ]
   ],
-  "avg_latency_ms": 115.4,
-  "min_latency_ms": 1.6
+  "avg_latency_ms": 90.9,
+  "min_latency_ms": 1.3
 }
