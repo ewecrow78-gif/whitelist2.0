@@ -1,4 +1,4 @@
+vless://bd98f5d9-30b7-4dee-a9b5-596a99a4d516@146.59.13.37:80?path=%2Fvless&security=none&encryption=none&host=146.59.13.37&type=ws#%40v2rayng_org
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?security=none&encryption=none&type=ws#Free%24%2031%20%40Outline_Vpn
 vless://83188542-d5ad-421d-b476-d6e97fe99101@146.59.13.37:80?path=%2Fvless&security=none&encryption=none&host=146.59.13.37&type=ws#%40v2rayng_org
-vless://bd98f5d9-30b7-4dee-a9b5-596a99a4d516@146.59.13.37:80?path=%2Fvless&security=none&encryption=none&host=146.59.13.37&type=ws#%40v2rayng_org
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=panel.dibaux.ir&type=ws#%5B%F0%9F%87%B5%F0%9F%87%B1%5Dt.me%2Fvmessorg
