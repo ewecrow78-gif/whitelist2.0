@@ -1,1 +1,2 @@
-vless://89304de3-af59-4313-b18d-c93dadf54537@103.200.28.142:7443?security=reality&encryption=none&pbk=_GHDETa6pflP7WjkBT-2jMYnb0xRs-e8LrCu93Z_CHo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-2517
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0171

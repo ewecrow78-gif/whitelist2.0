@@ -1,1 +1,1 @@
-vless://d4d234ea-80ea-4820-ac5e-05d653960579@187.124.98.130:3443?security=reality&encryption=none&pbk=AdSCtMttNJ-KQuURl1ynBdy8DtAbCUFG6G2qB-GbTXU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=bc755b173467c322#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.160.174-0769

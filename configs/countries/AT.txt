@@ -1,2 +1,1 @@
-trojan://VGBzLm49%3DM_i02Az30tIeonkQw180t-edg@185.126.236.190:443?allowInsecure=1&sni=185.126.236.190#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20V2CROSS.COM
-trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&sni=185.126.236.190#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&headerType=none&type=tcp&sni=185.126.236.190#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
