@@ -1,1 +1,1 @@
-trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#%24Free%20242%20%40Outline_Vpn
