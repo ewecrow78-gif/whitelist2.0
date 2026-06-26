@@ -5,10 +5,10 @@
 **Элитный агрегатор и чекер VPN-конфигураций**
 
 [![Configs](https://img.shields.io/badge/Всего_конфигов-936-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](configs/all.txt)
-[![Alive](https://img.shields.io/badge/Живых-404-brightgreen?style=for-the-badge)](configs/alive.txt)
-[![Success Rate](https://img.shields.io/badge/Success_Rate-43.2%25-success?style=for-the-badge)](configs/alive.json)
-[![Latency](https://img.shields.io/badge/Avg_Latency-99.4ms-orange?style=for-the-badge)](configs/top_fast.txt)
-[![Updated](https://img.shields.io/badge/Обновлено-2026-06-26_04-03_UTC-lightgrey?style=for-the-badge)](https://github.com/YOUR_USERNAME/Gh0st_WhiteList/actions)
+[![Alive](https://img.shields.io/badge/Живых-405-brightgreen?style=for-the-badge)](configs/alive.txt)
+[![Success Rate](https://img.shields.io/badge/Success_Rate-43.3%25-success?style=for-the-badge)](configs/alive.json)
+[![Latency](https://img.shields.io/badge/Avg_Latency-95.9ms-orange?style=for-the-badge)](configs/top_fast.txt)
+[![Updated](https://img.shields.io/badge/Обновлено-2026-06-26_09-34_UTC-lightgrey?style=for-the-badge)](https://github.com/YOUR_USERNAME/Gh0st_WhiteList/actions)
 
 > 🇷🇺 Оптимизировано для использования в России
 
@@ -23,10 +23,10 @@
 | Метрика | Значение |
 |---------|----------|
 | 📦 Всего собрано | **936** |
-| ✅ Рабочих | **404** (43.2%) |
-| ⚡ Лучшая задержка | **0.8 мс** |
-| 📈 Средняя задержка | **99.4 мс** |
-| 🕐 Обновлено | **2026-06-26 04:03 UTC** |
+| ✅ Рабочих | **405** (43.3%) |
+| ⚡ Лучшая задержка | **5.2 мс** |
+| 📈 Средняя задержка | **95.9 мс** |
+| 🕐 Обновлено | **2026-06-26 09:34 UTC** |
 
 </div>
 
@@ -36,16 +36,16 @@
 
 | # | Флаг | Страна | Конфигов |
 |---|------|--------|----------|
-| 1 | 🇨🇦 | `CA` | **117** |
-| 2 | 🇩🇪 | `DE` | **66** |
+| 1 | 🇨🇦 | `CA` | **124** |
+| 2 | 🇩🇪 | `DE` | **61** |
 | 3 | 🇳🇱 | `NL` | **42** |
-| 4 | 🇺🇸 | `US` | **41** |
-| 5 | 🇫🇷 | `FR` | **28** |
+| 4 | 🇺🇸 | `US` | **39** |
+| 5 | 🇫🇷 | `FR` | **27** |
 | 6 | 🇫🇮 | `FI` | **25** |
-| 7 | 🇬🇧 | `GB` | **12** |
+| 7 | 🇬🇧 | `GB` | **14** |
 | 8 | 🇭🇰 | `HK` | **12** |
-| 9 | 🇸🇬 | `SG` | **8** |
-| 10 | 🇰🇷 | `KR` | **7** |
+| 9 | 🇸🇬 | `SG` | **7** |
+| 10 | 🏴 | `IT` | **6** |
 
 
 ---
@@ -54,10 +54,10 @@
 
 | # | Протокол | Конфигов | Доля |
 |---|----------|----------|------|
-| 1 | 🔷 `vmess` | **200** | 49.5% |
-| 2 | ⚡ `vless` | **132** | 32.7% |
-| 3 | 🐴 `trojan` | **46** | 11.4% |
-| 4 | 🔵 `ss` | **26** | 6.4% |
+| 1 | 🔷 `vmess` | **198** | 48.9% |
+| 2 | ⚡ `vless` | **131** | 32.3% |
+| 3 | 🐴 `trojan` | **47** | 11.6% |
+| 4 | 🔵 `ss` | **29** | 7.2% |
 
 
 ---
@@ -73,7 +73,7 @@
 | 🚀 **Top Fast** | 100 | Самые быстрые | [`top_fast.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/top_fast.txt) |
 | 🛡️ **Top Reliable** | 100 | Самые стабильные | [`top_reliable.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/top_reliable.txt) |
 | 🇷🇺 **Best RU** | 100 | Лучшие для России | [`best_ru.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/best_ru.txt) |
-| ✅ **All Alive** | 404 | Все рабочие | [`alive.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/alive.txt) |
+| ✅ **All Alive** | 405 | Все рабочие | [`alive.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/alive.txt) |
 | 📦 **All** | 936 | Все собранные | [`all.txt`](https://raw.githubusercontent.com/YOUR_USERNAME/Gh0st_WhiteList/main/configs/all.txt) |
 
 </div>
