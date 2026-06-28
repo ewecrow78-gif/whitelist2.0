@@ -1,4 +1,3 @@
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#Free%24%20141%20%40Outline_Vpn
 vless://bd98f5d9-30b7-4dee-a9b5-596a99a4d516@146.59.13.37:80?path=%2Fvless&security=none&encryption=none&host=146.59.13.37&type=ws#%40v2rayng_org
 vless://83188542-d5ad-421d-b476-d6e97fe99101@146.59.13.37:80?path=%2Fvless&security=none&encryption=none&host=146.59.13.37&type=ws#%40v2rayng_org
-vless://e3e90161-fe65-443a-a3a4-e0e3a73704ca@95.85.227.25:443?security=reality&encryption=none&pbk=PL-jIhHOxLpCUmnDvMEsB3YY3n8o7smiAT0P_SV6RCM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pol1.hatvpn.org&sid=19d6296d2621d9fa#%E6%8D%B7%E5%85%8B+V2CROSS.COM
